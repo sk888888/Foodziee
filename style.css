@@ -1,0 +1,45 @@
+.navbar {
+  /* padding: 0;
+  margin: 0;
+  width: 100%; */
+  box-shadow: 0 15px 40px -20px rgba(6, 27, 103, 0.15);
+}
+.navbar img {
+  width: 101px;
+  height: 100px;
+}
+
+.nav-link{
+    color:black;
+    /* font-weight: bold; */
+}
+.nav-link:hover{
+    color:orangered;
+    /* #e67e22 */
+}
+/* .row{
+  background-color: white;
+} */
+.item{
+  /* background: cyan; */
+  /* height: 400px; */
+  padding: 10px;
+}
+.item img{
+  border-radius: 50%;
+  height:170px;
+}
+
+.owl-carousel .owl-nav .owl-prev span,
+.owl-carousel .owl-nav .owl-next span {
+   /* background-color: pink;  */
+  color: #000;
+}
+.toggle-switch {
+  width: 40px;
+  height: 30px;
+}
+
+
+
+
