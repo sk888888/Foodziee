@@ -1,2 +1,3 @@
 # Foodziee
-food ordering sysstem 
+food ordering system 
+This is a learning project.
